@@ -1,0 +1,16 @@
+langchain
+langgraph
+langsmith
+langchain-community
+langchain-huggingface
+qdrant-client
+sentence-transformers
+streamlit
+pypdf
+python-dotenv
+requests
+pytest
+pytest-asyncio
+typing-extensions
+tenacity
+
