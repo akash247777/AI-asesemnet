@@ -18,6 +18,10 @@ An end-to-end, agentic mini-app that:
 - **Streamlit** (UI)
 - **LangSmith** (optional tracing/eval)
 
+# LangSmith logs
+
+<img width="1920" height="948" alt="image" src="https://github.com/user-attachments/assets/8c796749-00ee-4aa1-9cc9-286275723ae1" />
+
 # Project Structure
 
 ```
